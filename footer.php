@@ -13,7 +13,7 @@
         <div class="col-md-6 mt-md-0 mt-3">
 
           <!-- Content -->
-          <img src="logo.png" style="height: 90px; margin-top: 15px;">
+          <img src="images/logo.png" style="height: 90px; margin-top: 15px;">
         </div>
         <!-- Grid column -->
 

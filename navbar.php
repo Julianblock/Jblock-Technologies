@@ -13,7 +13,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="https://jblocktech.com"><img src="logo.png" style="height: 25px;"/></a>
+      <a class="navbar-brand" href="https://jblocktech.com"><img src="images/logo.png" style="height: 25px;"/></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->

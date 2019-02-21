@@ -13,7 +13,7 @@
 
 
 
-<link rel="stylesheet" href="animate.css" />
+<link rel="stylesheet" href="styles/animate.css" />
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -26,9 +26,9 @@
 
 <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.5.0/css/all.css' integrity='sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU' crossorigin='anonymous'>
 
-<link rel="stylesheet" href="main.css" />
+<link rel="stylesheet" href="styles/main.css" />
 
-<link rel="stylesheet" href="owner.css" />
+<link rel="stylesheet" href="styles/owner.css" />
 
 </head>
 
@@ -42,7 +42,7 @@
 <center>
 <div class="owners_headContainer">
 	<div class="headerLayover">
-	<img src="logo.png" class=" mainLogo animated fadeIn"/>
+	<img src="images/logo.png" class=" mainLogo animated fadeIn"/>
 	<br/><br/>
 	<a href="#owners" style="font-size: 24px; text-shadow: 1px 2px 11px #272727; color: #fff;"><button class="ownerHeaderButtons greenButton animated fadeIn" onclick="document.getElementById('owners').style.display='block'">Meet The Owners</button></a>
 	</div>
@@ -93,7 +93,7 @@
 
 <!-- Subscribe Modal -->
 <div id="owners" class="w3-modal w3-animate-opacity">
-  <div class="w3-modal-content" style="padding:32px;height: 100%;overflow-y: scroll;"><img src="logo.png" style="width: 27%;">
+  <div class="w3-modal-content" style="padding:32px;height: 100%;overflow-y: scroll;"><img src="images/logo.png" style="width: 27%;">
     
       <i onclick="document.getElementById('owners').style.display='none'" class="fa fa-remove w3-transparent w3-button w3-xlarge w3-right"></i>
     <center>
@@ -102,7 +102,7 @@
 ">
     <div>
    
-    <img src="jblock.jpg" style="
+    <img src="images/jblock.jpg" style="
     height: 222px;
     width: 222px;
 ">
@@ -116,7 +116,7 @@
     
     <div>
    
-    <img src="loka.jpg" style="
+    <img src="images/loka.jpg" style="
     height: 222px;
     width: 222px;
 ">
