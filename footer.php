@@ -66,7 +66,7 @@
 
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">
-      <a href="https://jblocktech.com">© 2018 Copyright || Jblocktech.com</a>
+      <a href="https://jblocktech.com">© 2019 Copyright || Jblocktech.com</a>
     </div>
     <!-- Copyright -->
 
