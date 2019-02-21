@@ -1,0 +1,2 @@
+[03-Dec-2018 06:34:43 UTC] PHP Warning:  include(navabar.php): failed to open stream: No such file or directory in /home/blockj/public_html/recruit/jobs.php on line 29
+[03-Dec-2018 06:34:43 UTC] PHP Warning:  include(): Failed opening 'navabar.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/blockj/public_html/recruit/jobs.php on line 29

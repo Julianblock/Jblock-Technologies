@@ -1,0 +1,241 @@
+body{
+	margin: 0;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+hr{
+	background-color: #4d874d;
+	border-color: #4d874d;
+}
+
+.headContainer{
+	height: 100vh;
+	width: 100%;
+	background: url('adult.jpg');
+	background-position: center;
+    	background-repeat: no-repeat;
+    	background-size: cover;
+}
+
+
+.jobs_headContainer{
+	height: 100vh;
+	width: 100%;
+	background: url('businessy.jpg');
+	background-position: center;
+    	background-repeat: no-repeat;
+    	background-size: cover;
+}
+
+.owners_headContainer{
+	height: 100vh;
+	width: 100%;
+	background: url('agreement-arms.jpg');
+	background-position: center;
+    	background-repeat: no-repeat;
+    	background-size: cover;
+}
+
+.headerLayover{
+    background: linear-gradient(rgba(255, 255, 255, 0.78), rgba(35, 81, 39, 0.45));
+    height: 100vh;
+    padding-top: 16%;
+}
+
+.imageLayover{
+    background: linear-gradient(rgba(255, 255, 255, 0.88), rgba(35, 81, 39, 0.65));
+    height: 100%;
+    margin-top: -100%;
+}
+
+.headerButtons{
+	height: 50px;
+	width: 150px;
+	-webkit-transition: .6s;
+	border: solid 1px #636363;
+	border-radius: 7px;
+	margin: 5px;
+}
+
+.ownerHeaderButtons{
+	height: 50px;
+	width: 280px;
+	-webkit-transition: .6s;
+	border: solid 1px #636363;
+	border-radius: 7px;
+	margin: 5px;
+	font-size: 24px;
+    	text-shadow: 1px 2px 11px #272727;
+    	color: #fff;
+}
+
+@media (max-width: 720px){
+    .ownerHeaderButtons{
+	width: 90%;
+}
+}
+
+.greenButton {
+    background: #235127;
+    color: white;
+    font-size: 19px;
+    font-family: "Montserrat",sans-serif;
+}
+
+.greyButton {
+    background: #d7d7d7;
+    color: #24532a;
+    font-size: 19px;
+    font-family: "Montserrat",sans-serif;
+}
+
+.greyButton:hover{
+	color: white;
+}
+
+.headerButtons:Hover{
+	background: #4d874d; 
+}
+
+.ownerHeaderButtons:Hover{
+	background: #4d874d; 
+}
+
+.mainLogo{
+	height: 150px;
+}
+
+@media only screen and (max-width: 720px){
+	.mainLogo{
+	height: 72px;
+	}
+	
+	.headerButtons{
+	margin-top: 25%;
+	}
+	
+	.headerLayover{
+	padding-top: 20%;
+	}
+}
+
+.about_section{
+	background: url('achievement.jpg');
+	background-size: cover;
+}
+
+.about{
+    background: linear-gradient(rgba(72, 131, 74, 0.8),rgba(25, 56, 29, 0.75));
+    padding: 1%;
+    border: solid 1px #235127;
+    padding-left: 25%;
+    padding-right: 25%;
+} 
+
+.aboutBox{
+	border: solid 1px #235127;
+	width: 100%;
+	background: #fff;
+	padding: 1%;
+	padding-bottom: 23px;
+}
+
+.aboutBox h1, p{
+	text-align: center;
+	font-family: montserrat regular;
+	color: #4d874d;
+	font-size: 27px;
+}
+
+.jobbutton{
+	
+    border: 1px solid #4d894e;
+    background: #3c733f;
+    width: 80%;
+    height: 63px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;    
+-webkit-transition: .6s;
+}
+
+.jobbutton:hover{
+	background: #4d874d; 
+}
+
+@media (max-width: 720px){
+	.about{
+		padding-left: 6px;
+		padding-right: 6px;
+	}
+}
+
+.tabs{	
+    border: 1px solid #4f9e51;
+    border-radius: 10px;
+    background: white;
+    margin-top: 5px;
+    -webkit-transition: .6s;
+    height: 32%;
+}
+
+@media (max-width: 1199px){
+    .tabs{
+    height: 34%;
+}
+}
+
+@media (max-height: 557px){
+    .tabs{
+    height: 36%;
+}
+}
+
+.tabs:hover{
+	background: #235127;
+	
+}
+
+.tabs:hover p{
+	color: white;
+}
+
+.tabsNetAdmin img{
+    height: 128px;
+}
+
+@media (max-width: 1199px){
+.tabsNetAdmin img{
+    height: 165px;
+}
+}
+b{
+    font-family: "Montserrat",sans-serif;
+}
+
+footer{
+    margin-top: 40px;
+    background: linear-gradient(75deg, #131313, #467f47);
+}
+
+footer
+{ h1, h2, h3, h4, h5, p, b{
+    color: #fff;
+    font-family: "Montserrat",sans-serif;
+}
+} 
+
+a{
+	color: #fff;
+	font-size: 16px;
+}
+
+a:hover{
+	color: #7e7e7e;
+}
+
+
+
